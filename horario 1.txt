@@ -6,3 +6,5 @@ jueves: 6 - 8:30 gym / 9 - 12 tarea,practicas henry / 3 - 4 Llamar a clinicas / 
 viernes: 6 - 8:30 gym / 9 - 11 tarea,practicas henry / 3 - 4 Trabajo
 
 sabado: 2 - 5 tarea repaso henry.
+
+Domingo: Limpieza apto / Jugar / leer
