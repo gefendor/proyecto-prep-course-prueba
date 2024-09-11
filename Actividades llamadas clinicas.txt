@@ -23,3 +23,16 @@ reparación de transductores.
 
 2. Agregar en archivo de excel personas que no pudieron atender 
 llamadas y programar contacto nuevamente. 
+
+
+Dialogo para rechazo. 
+
+1. Tenemos una persona que se encarga ya de esos temas. 
+
+R/ claro que si, igualmente es importante contar con mas opciones
+especialmente cuando se trata de compra y venta de equipos, 
+accesorios o repuestos. En nuestro caso, usted habla con la empresa
+que a la que buscan para comprar los repuestos que le venden a usted. 
+
+Guarde mi contacto y permitame que le envie informacion de otras 
+clinicas o ips que esten interesasdas en vender los equipos. 
