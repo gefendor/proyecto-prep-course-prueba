@@ -1,0 +1,26 @@
+1. Buscar en base de datos los clientes 
+2. Verificar la existencia del cliente 
+3. llamar al cliente.
+
+Dialogo. 
+
+Buenas tardes. Habalas con German Ernesto Perez, gerente de la 
+empresa b&e ingenieria medica. Me gustaria hablar con la persona
+encargada del mantenimiento de los equipos medicos. 
+
+R/ 1. Con mucho gusto, puede hablar con x persona, ya lo comunico
+con la extencion 2.puede llamar en x minutos esta en reunion. 
+
+
+1. Buenos dias. Hablas con german ernesto perez, gerente de B&E
+ingenieria medica sas. Me comunico con usted por dos razonez, la 
+primera porque estoy creando una base de datos donde las clinicas e
+ips puedan enviarnos los equipos que esten interesados en vender.
+la idea es que cuando este a la venta cualquier equipo, tener una
+difusión lo mayor posible, y segundo, porque estamos haciendo saber
+a las diferentes instituciones que prestamos el servicio de 
+reparación de transductores. 
+
+2. Agregar en archivo de excel personas que no pudieron atender 
+llamadas y programar contacto nuevamente. 
+  
