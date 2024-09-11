@@ -4,3 +4,5 @@ miercoles: 6 - 8:30 tarea practicar / 9 - 11 llamar a IPS / 3 - 4 Llamar a clini
 
 jueves: 6 - 8:30 gym / 9 - 12 tarea,practicas henry / 3 - 4 Llamar a clinicas / 6 - 8:30 Curso Henry 
 viernes: 6 - 8:30 gym / 9 - 11 tarea,practicas henry / 3 - 4 Trabajo
+
+sabado: 2 - 5 tarea repaso henry.
