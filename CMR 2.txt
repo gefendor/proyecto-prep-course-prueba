@@ -1,1 +1,3 @@
-cliente      telefono         motivo del rechazo        
+cliente      telefono         motivo del rechazo 
+
+rx de occ	320 222222	estan por clausurar actividades       
